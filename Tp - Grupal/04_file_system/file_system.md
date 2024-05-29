@@ -1,4 +1,4 @@
-# Trabajo Práctico 3: File System FUSE - Sistemas Operativos - FIUBA
+# Trabajo Práctico File System FUSE - Sistemas Operativos - FIUBA
 
 Grupo 09
 
