@@ -1,10 +1,11 @@
 # Sistemas-Operativos
 
 Material y trabajos prácticos realizados en la materia Sistemas Operativos
+
 Segundo cuatrimestre 2022 - Facultad de Ingeniería, Universidad de Buenos Aires
 
 ## Lab Fork
-El objetivo del TP es familiarizarse con las llamadas al sistema (Syscalls) utilizadas para solicitar al SO que duplique un proceso (fork) o que proporcione un mecanismo de comunicación unidireccional entre dos procesos (pipe)
+El objetivo del TP es familiarizarse con las llamadas al sistema (Syscalls) utilizadas para solicitar al Sistema Operativo que duplique un proceso (fork) o que proporcione un mecanismo de comunicación unidireccional entre dos procesos (pipe)
 
 Para ello se realiza un programa en lenguaje C que utiliza dichas llamadas al sistema e implementa un ping-pong entre dos procesos.
 
